@@ -6,7 +6,7 @@ public class LearnArrayList {
 
 	public static void main(String[] args) {
 		
-		//ArrayList<Object> name = new ArrayList<Object>();
+		//ArrayList<Object> name = new ArrayList<>();
 		ArrayList<Integer> al = new ArrayList<>();
 		
 		for(int i=0;i<10;i++) {
