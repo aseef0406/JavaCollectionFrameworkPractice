@@ -6,7 +6,8 @@ public class LearnArrayList {
 
 	public static void main(String[] args) {
 		
-		ArrayList<Integer> al = new ArrayList<Integer>();
+		//ArrayList<Object> name = new ArrayList<Object>();
+		ArrayList<Integer> al = new ArrayList<>();
 		
 		for(int i=0;i<10;i++) {
 			al.add(i);
