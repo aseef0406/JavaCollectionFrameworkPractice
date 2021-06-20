@@ -5,9 +5,8 @@ import java.util.Stack;
 public class LearnStack {
 
 	public static void main(String[] args) {
-		
-		Stack<String> animals = new Stack<>();
 		//Stack is Data Structure which follows LIFO i.e., last in first out mechanism
+		Stack<String> animals = new Stack<>();
 		
 		animals.push("Lion"); // will push/add the element in the end.
 		animals.push("Tiger");
