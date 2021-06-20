@@ -8,9 +8,9 @@ public class LearnArrayList {
 	public static void main(String[] args) {
 		
 		//ArrayList<Object> name = new ArrayList<>();
-		ArrayList<Integer> al = new ArrayList<>();
-		ArrayList<Integer> nal = new ArrayList<>();
-		ArrayList<Integer> aal = new ArrayList<>();
+		List<Integer> al = new ArrayList<>();
+		List<Integer> nal = new ArrayList<>();
+		List<Integer> aal = new ArrayList<>();
 		
 		for(int i=0;i<15;i++) {
 			al.add(i);
